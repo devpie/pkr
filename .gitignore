@@ -11,3 +11,10 @@ project/plugins/project/
 
 # Scala-IDE specific
 .scala_dependencies
+
+# Eclipse and others
+.project
+.settings
+build
+bin
+.gradle

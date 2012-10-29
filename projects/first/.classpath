@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/scala"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="/home/jan/.gradle/caches/artifacts-14/filestore/org.scala-lang/scala-library/2.9.2/source/1c8e0222e53c7157befbf752bee474c7ab458eb4/scala-library-2.9.2-sources.jar" kind="lib" path="/home/jan/.gradle/caches/artifacts-14/filestore/org.scala-lang/scala-library/2.9.2/jar/55cf429e92d45524a548929a9d6e790205a0e61/scala-library-2.9.2.jar" exported="true"/>
+</classpath>
