@@ -14,6 +14,7 @@ project/plugins/project/
 
 # Eclipse and others
 .project
+.classpath
 .settings
 build
 bin
